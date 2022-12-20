@@ -2,6 +2,7 @@
 <h2> Hi there, I'm Ayat Hashish 👋:heart: </h2>
 
 - Front-End Developer
+- Ui Developer
 <hr>
 
 <!--
