@@ -39,6 +39,52 @@ EHS (Salon at Home and Beauty Services) helps you discover the best beauty profe
 
 <!--
 
+
+### Mohap
+Mohap
+ (Salon at Home and Beauty Services) helps you discover the best beauty professionals near your home who will come at your doorstep to pamper you. Just download our app, pick a beauty service, date, time & location to book. A mobile beauty therapist will arrive at a time and place that suits you ready to deliver your chosen treatment using premium products & equipment. Our team of professional beauty therapists are trade-tested and fully vetted, with years of professional experience, so you can sit back and relax knowing you're in the best hands.
+<p>
+<a href="https://ebirthdeath.mohap.gov.ae/BirthDeathCertifications/" target="_blank">
+<img alt="Mohap
+" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" />
+</a>
+<p>
+
+<hr>
+
+<!--
+
+
+
+### Adex
+Adex
+ (Salon at Home and Beauty Services) helps you discover the best beauty professionals near your home who will come at your doorstep to pamper you. Just download our app, pick a beauty service, date, time & location to book. A mobile beauty therapist will arrive at a time and place that suits you ready to deliver your chosen treatment using premium products & equipment. Our team of professional beauty therapists are trade-tested and fully vetted, with years of professional experience, so you can sit back and relax knowing you're in the best hands.
+<p>
+<a href="https://www.adex.ae/ar" target="_blank">
+<img alt="Mohap
+" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" />
+</a>
+<p>
+
+<hr>
+
+<!--
+
+
+
+### Ajman
+Ajman
+ (Salon at Home and Beauty Services) helps you discover the best beauty professionals near your home who will come at your doorstep to pamper you. Just download our app, pick a beauty service, date, time & location to book. A mobile beauty therapist will arrive at a time and place that suits you ready to deliver your chosen treatment using premium products & equipment. Our team of professional beauty therapists are trade-tested and fully vetted, with years of professional experience, so you can sit back and relax knowing you're in the best hands.
+<p>
+<a href="https://www.ajman.ae/en" target="_blank">
+<img alt="Mohap
+" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" />
+</a>
+<p>
+
+<hr>
+
+<!--
 ### Otlaat
 When you are ready to travel, the Otalat App is your best tool  for finding and booking the very best deals on any kind of accommodation, anywhere in the world. Download the app now and enjoy discounts and other exclusive offers
 
